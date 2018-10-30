@@ -7,7 +7,7 @@ eureka:
 ---
 spring:
   profiles: subject
-words: I,You,He,She,It
+words: I,You,He,She,It,We,You,They
 
 ---
 spring:
@@ -22,9 +22,9 @@ words: a,the
 ---
 spring:
   profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: presumable,deliquescent,skeptical,usual,unusual
 
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+words: ship,paper,pol,chair,bag,division,woodchuck
