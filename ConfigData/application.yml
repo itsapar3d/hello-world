@@ -6,6 +6,11 @@ eureka:
 
 ---
 spring:
+  profiles: sentence
+words: NA
+
+---
+spring:
   profiles: subject
 words: I,You,He,She,It,We,You,They
 
